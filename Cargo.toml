@@ -1,5 +1,5 @@
 [package]
-name = "data-cube"
+name = "data_cube"
 description = "Small crate to create and work with threedimensional arrays"
 version = "0.1.0"
 edition = "2024"
@@ -9,6 +9,6 @@ keywords = ["data", "array", "cube", "threedimensional"]
 [dependencies]
 
 [lib]
-name= "data-cube"
+name= "data_cube"
 path = "src/lib.rs"
 
