@@ -1,5 +1,6 @@
 [package]
 name = "DataCube"
+description = "Small crate to create and work with threedimensional arrays"
 version = "0.1.0"
 edition = "2024"
 license = "MIT or Apache-2.0"
