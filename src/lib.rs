@@ -1,5 +1,5 @@
 pub struct CubeArray {
-    datacube: Vec<Vec<Vec<u64>>>,
+    pub datacube: Vec<Vec<Vec<u64>>>,
 }
 
 impl CubeArray {
