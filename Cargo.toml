@@ -1,5 +1,5 @@
 [package]
-name = "datacube"
+name = "DataCube"
 description = "Small crate to create and work with threedimensional arrays"
 version = "0.1.7"
 edition = "2024"
