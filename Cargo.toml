@@ -1,7 +1,7 @@
 [package]
 name = "DataCube"
 description = "Small crate to create and work with threedimensional arrays"
-version = "0.1.4"
+version = "0.1.5"
 edition = "2024"
 license = "MIT"
 keywords = ["data", "array", "cube", "threedimensional"]
