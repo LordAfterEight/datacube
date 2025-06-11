@@ -1,4 +1,4 @@
-struct CubeArray {
+pub struct CubeArray {
     datacube: Vec<Vec<Vec<u64>>>,
 }
 
